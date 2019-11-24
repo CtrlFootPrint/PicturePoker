@@ -10,5 +10,6 @@ The level will increase every time the player wins, decrease when the player los
 
 The .rar file includes an executable file of the game to run on Windows computers.
 
+All sprites and sound effects belong to Nintendo. This game has been built merely as a programming exercise. All rights reserved.
 
 Footage of game running: https://imgur.com/a/IPbVvnd
